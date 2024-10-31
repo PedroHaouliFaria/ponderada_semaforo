@@ -1,8 +1,4 @@
-# Ponderada Sinaleiro
- ```cpp
-
-codigo
-```
+# Ponderada Farol
 
 *Ponderada Arduino - Semana 2 (Projeto Farol)*
 
